@@ -84,11 +84,10 @@ button:focus {
 }
 
 .textBox {
-  width: 280px;
+  width: 100vw;
   height: 160px;
   position: absolute;
   bottom: 60px;
-  left: calc(50% - 140px);
   z-index: 100;
 
   display: flex;
